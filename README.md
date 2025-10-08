@@ -1,2 +1,2 @@
 # SSO-Lambda
-INET MANAGED SERVICES COMPANY LIMITED For Test
+GLCD Lambda For Test
